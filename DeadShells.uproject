@@ -1,10 +1,6 @@
 {
 	"FileVersion": 3,
-<<<<<<< HEAD
-	"EngineAssociation": "{BE5DB7F2-4FDA-FEE7-C5CA-67B159AE718E}",
-=======
 	"EngineAssociation": "{AC0908C7-4747-89D4-0F74-1196239A8D90}",
->>>>>>> parent of 86d329a (Merge branch 'main' into TestMerge)
 	"Category": "",
 	"Description": "",
 	"Plugins": [
